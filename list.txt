@@ -1,5 +1,5 @@
 广东频道,#genre#
-广东体育,http://www.szdznet.cn/tv/tm2.php?id=GDSport#http://nclive.grtn.cn:80/typd/sd/live.m3u8
+广东体育,http://mg.xp66.top/dl/migu.php?id=624303497#http://49.234.207.217/tv/migu.php?id=624303497#http://nclive.grtn.cn:80/typd/sd/live.m3u8
 广东影视,http://nclive.grtn.cn/tvs4/sd/live.m3u8
 广东新闻,http://nclive.grtn.cn/xwpd/sd/live.m3u8
 广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
@@ -81,8 +81,6 @@ CCTV-4K超清,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 凤凰香港,http://183.207.249.35:80/PLTV/3/224/3221226975/index.m3u8
 澳门卫视,http://stream.mastvnet.com:80/MSTV/SD/live.m3u8
 五星体育,http://172.81.237.63:80/live/program/live/ssty/4000000/mnf.m3u8
-无线新闻,https://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
-东森电影,http://341697390.r.fdccdn.net:80/live/tw_dongsen_dy.m3u8
 超级体育,http://111.20.45.152:80/wh7f454c46tw1712730629_1672151574/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225545/index.m3u8?icpid=88888888&RTS=1528976401&from=1&hms_devid=243
 四海钓鱼,http://117.148.187.113:80/PLTV/88888888/224/3221226533/1.m3u8
 奥林匹克,http://ott-live.olympicchannel.com:80/out/u/OC1_1.m3u8
