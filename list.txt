@@ -45,6 +45,9 @@
 广东汕尾,http://52tv.freevar.com/gdtv.php?id=swzh&s=ds
 揭阳综合,http://52tv.freevar.com/gdtv.php?id=jyzh&s=ds
 岭南戏曲,http://52tv.freevar.com/gdtv.php?id=lnxq&s=sz
+汕头综合,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=shantouyitaogaoqing_4500
+汕头经济,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=shantouertaogaoqing_4500
+汕头公共,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=shantousantaogaoqing_4500
 广州番禺,http://live.pybtv.cn:80/channel1/sd/live.m3u8
 梅州一套,http://pili-live-rtmp.tvliving.gdmztv.com:80/meizhou-tvliving/mztv1.m3u8
 梅州二套,http://pili-live-rtmp.tvliving.gdmztv.com:80/meizhou-tvliving/mztv2.m3u8
