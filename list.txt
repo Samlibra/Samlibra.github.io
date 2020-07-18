@@ -13,7 +13,6 @@
 广东移动,http://52tv.freevar.com/gdtv.php?id=ydpd&s=sz
 广东房产,http://52tv.freevar.com/gdtv.php?id=fcpd&s=sz
 广东教育,http://52tv.freevar.com/gdtv.php?id=jypd&s=sz
-广东文化,https://elive.grtn.cn/live/view.m3u8?auth_key=1602733199-0-0-ceff744c0d861058e290b9505f93ea40
 南方购物,http://52tv.freevar.com/gdtv.php?id=nfgw&s=sz
 深圳卫视,http://52tv.freevar.com/sztv.php?id=1
 深圳都市,http://52tv.freevar.com/sztv.php?id=2
@@ -117,20 +116,9 @@ CCTV-4K超清,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322122937
 内蒙古卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 港澳频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港翡翠,http://tvtest.lymmmm.com:88/upnp/channelstream/2.ts#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video#http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=xgfeicui_1500
-香港J2台,http://tvtest.lymmmm.com:88/upnp/channelstream/4.ts#http://111.229.73.84/dl/xg235.php?id=12&xl=2
-无线新闻,http://tvtest.lymmmm.com:88/upnp/channelstream/5.ts#http://52tv.freevar.com/tvb.php?id=1
-无线财经,http://tvtest.lymmmm.com:88/upnp/channelstream/6.ts#http://52tv.freevar.com/tvb.php?id=2
-有线新闻,http://liveima.utvlive.top/livehls/MOB-SCC/index.m3u8
-有线综合,http://liveima.utvlive.top/livehls/MOB-CN/index.m3u8
-有线财经,http://liveima.utvlive.top/livehls/MOB-NGW/index.m3u8
-香港娱乐,http://tvtest.lymmmm.com:88/upnp/channelstream/1.ts
-香港英文,http://tvtest.lymmmm.com:88/upnp/channelstream/15.ts
-香港31台,http://tvtest.lymmmm.com:88/upnp/channelstream/7.ts
-香港32台,http://tvtest.lymmmm.com:88/upnp/channelstream/8.ts
-香港33台,http://tvtest.lymmmm.com:88/upnp/channelstream/9.ts
-香港电视,http://tvtest.lymmmm.com:88/upnp/channelstream/14.ts
-香港国际,http://tvtest.lymmmm.com:88/upnp/channelstream/13.ts
+香港翡翠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video#http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=xgfeicui_1500
+无线新闻,http://52tv.freevar.com/tvb.php?id=1
+无线财经,http://52tv.freevar.com/tvb.php?id=2
 香港明珠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=xgmingzhu_1500
 凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
@@ -156,7 +144,6 @@ CCTV-4K超清,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322122937
 中华美食,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=zhonghuameishi_1500
 书画频道,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=shuhua_1500
 网络军旗,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=wangluoqipai_1500
-英语辅导,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=yingyufudao_1500
 先锋乒羽,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=pingyu_1500
 山东教育,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=CETV-4_1500
 中国气象,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=zgqixiang_1500
@@ -324,5 +311,3 @@ iHOT爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=z
 电影轮播3,http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_2000.flv?uuid=
 电影轮播4,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_2000p.flv?uuid=
 电影轮播5,http://tx2play1.douyucdn.cn/live/85894rmovieChow_2000p.flv?uuid=
-电影轮播6,http://218.86.241.114/hdla.douyucdn.cn/live/263824rBdr31tasI_2000.flv?wsAuth=036fed8dc956ed67d86ec223296438b5&token=cpn-androidmpro-0-263824-09ca092493db15d2fe2ac622aa7d8c45981f1feaa65d9c9f&logo=0&expire=0&did=2cc55457c45dbd1103bf457e738f3527&origin=all&vhost=play1&wshc_tag=0&wsts_tag=5ef6b5df&wsid_tag=dca6a896&wsiphost=ipdbm
-电影轮播7,http://tx2play1.douyucdn.cn/live/431460ridBg4TaiO.xs
