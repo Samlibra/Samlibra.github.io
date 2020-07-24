@@ -210,6 +210,12 @@ CCTV-4K超清,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322122937
 山东少儿,http://120.221.5.102:8089/PLTV/88888888/224/3221226001/index.m3u8
 湖南综合,http://218.77.102.118:1935/live/zonghe/playlist.m3u8
 湖南湘潭,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+宁夏卫视,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
+宁夏公共,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=5
+宁夏经济,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=7
+宁夏影视,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=29
+宁夏少儿,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=28
+宁夏新闻,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=15
 四海钓鱼,http://kid.hfcatv.com.cn:13164/playurl?accesstoken=R5F02CABEU3095B030K773599EAIAFF7E2B7PBM3000EC4V0Z53085W161F175FF445EFF0&playtype=live&protocol=hls&accesstoken&playtoken=ABCDEFGH&auth=no&programid=4200000121.m3u8
 央视备用,#genre#
 CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
