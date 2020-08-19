@@ -16,7 +16,7 @@
 南方购物,http://52tv.freevar.com/gdtv.php?id=nfgw&s=sz
 深圳龙岗,http://liveplay.sznews.com/66_norecord_live/357.m3u8
 深圳东部,http://liveplay.sznews.com/66_norecord_live/343.m3u8
-深圳众创http://liveplay.sznews.com/66_norecord_live/341.m3u8
+深圳众创,http://liveplay.sznews.com/66_norecord_live/341.m3u8
 深圳卫视,http://52tv.freevar.com/sztv.php?id=1
 深圳都市,http://52tv.freevar.com/sztv.php?id=2
 深圳电视,http://52tv.freevar.com/sztv.php?id=3
