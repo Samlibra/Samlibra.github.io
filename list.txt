@@ -141,10 +141,6 @@ CCTV-4K超清,http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u
 湖南茶道,http://52tv.freevar.com/hnyx.php?id=43048
 文物金库,http://52tv.freevar.com/hnyx.php?id=43049
 东方财经,http://52tv.freevar.com/hnyx.php?id=43050
-求索纪录,http://52tv.freevar.com/hnyx.php?id=43051
-求索生活,http://52tv.freevar.com/hnyx.php?id=43052
-求索动物,http://52tv.freevar.com/hnyx.php?id=43053
-求索科学,http://52tv.freevar.com/hnyx.php?id=43054
 央视备用,#genre#
 CCTV-1综合,http://52tv.freevar.com/hnyx.php?id=1
 CCTV-2财经,http://52tv.freevar.com/hnyx.php?id=2
