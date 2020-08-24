@@ -159,11 +159,6 @@ CCTV-13新闻,http://52itv.freevar.com/hnyx.php?id=39
 CCTV-14少儿,http://52itv.freevar.com/hnyx.php?id=12
 CCTV-15音乐,http://52itv.freevar.com/hnyx.php?id=40
 CCTV-17农村,http://52itv.freevar.com/hnyx.php?id=90
-CCTV-剧场,http://52itv.freevar.com/hnyx.php?id=3056
-CCTV-地理,http://52itv.freevar.com/hnyx.php?id=3057
-CCTV-兵器,http://52itv.freevar.com/hnyx.php?id=3060
-CCTV-音乐,http://52itv.freevar.com/hnyx.php?id=1012
-CCTV-时尚,http://52itv.freevar.com/hnyx.php?id=1014
 外省频道,#genre#
 瑞丽频道,http://live.ynurl.com/video/s10021-rltv/index.m3u8
 北京少儿,http://ivi.bupt.edu.cn/hls/btv10.m3u8
