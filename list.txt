@@ -164,6 +164,17 @@ CCTV-17农村,http://52itv.freevar.com/hnyx.php?id=90
 北京少儿,http://ivi.bupt.edu.cn/hls/btv10.m3u8
 动漫电影,http://112.17.40.140/PLTV/88888888/224/3221226178/index.m3u8
 厦门移动,https://live1.kxm.xmtv.cn/xmyidong/tvzb/live.m3u8
+湖南教育,http://52itv.freevar.com/hnyx.php?id=43021
+湖南国际,http://52itv.freevar.com/hnyx.php?id=43022
+湖南导视,http://52itv.freevar.com/hnyx.php?id=43023
+湖南经视,http://52itv.freevar.com/hnyx.php?id=43024
+金鹰纪实,http://52itv.freevar.com/hnyx.php?id=43025
+湖南娱乐,http://52itv.freevar.com/hnyx.php?id=43027
+湖南都市,http://52itv.freevar.com/hnyx.php?id=43028
+湖南电影,http://52itv.freevar.com/hnyx.php?id=43029
+湖南电视,http://52itv.freevar.com/hnyx.php?id=43030
+湖南公共,http://52itv.freevar.com/hnyx.php?id=43031
+湖南快乐,http://52itv.freevar.com/hnyx.php?id=43032
 重庆卫视,http://52itv.freevar.com/cqtv.php?id=1
 重庆新闻,http://52itv.freevar.com/cqtv.php?id=3
 重庆影视,http://52itv.freevar.com/cqtv.php?id=6
