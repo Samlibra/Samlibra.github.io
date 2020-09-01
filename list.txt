@@ -1,5 +1,5 @@
 广东频道,#genre#
-广东珠江,http://52itv.freevar.com/gdtv.php?id=zjpd#http://52itv.freevar.com/hnyx.php?id=65
+广东珠江,http://52itv.freevar.com/gdtv.php?id=zjpd
 广东卫视,http://52itv.freevar.com/gdtv.php?id=gdws
 广东体育,http://52itv.freevar.com/hnyx.php?id=34#http://52itv.freevar.com/gdtv.php?id=typd#http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 广东新闻,http://52itv.freevar.com/gdtv.php?id=xwpd
